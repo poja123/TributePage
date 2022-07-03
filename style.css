@@ -1,0 +1,30 @@
+body
+{
+  background-color: #F3C5C5;
+
+}
+
+.heading
+{
+  text-align: center;
+}
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.para
+{
+  border-radius: 2px solid #7882A4;
+}
+#timeline
+{
+  border:1px solid #C1A3A3
+}
+.anchor
+{
+  color: red;
+
+}
